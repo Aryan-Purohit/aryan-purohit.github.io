@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Home Page -->
   <url>
-    <loc>https://aryan-purohit.github.io/</loc>
-    <lastmod>2025-08-06</lastmod>
+    <loc>https://www.aryan-purohit.github.io/</loc>
+    <lastmod>2025-08-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- Project Detail Pages -->
   <url>
-    <loc>https://aryan-purohit.github.io/#about</loc>
-    <lastmod>2025-08-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://aryan-purohit.github.io/#projects</loc>
-    <lastmod>2025-08-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-    <url>
-    <loc>https://aryan-purohit.github.io/#contact</loc>
-    <lastmod>2025-08-06</lastmod>
+    <loc>https://www.aryan-purohit.github.io/project/garhwali-dictionary</loc>
+    <lastmod>2025-08-10</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.aryan-purohit.github.io/project/lapis</loc>
+    <lastmod>2025-08-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.aryan-purohit.github.io/project/muse-telepathy</loc>
+    <lastmod>2025-08-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
